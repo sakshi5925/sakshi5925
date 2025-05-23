@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate and driven second-year B.Tech IT student currently working on real-time collaborative projects like a live code editor and a task management arena. I enjoy building interactive, scalable web applications using React.js, Next.js, MongoDB, and Tailwind CSS. Alongside web development, I am actively strengthening my skills in Data Structures and Algorithms. I love collaborating on open-source projects, hackathons, and innovative tech ideas that challenge me to grow as a developer.
+I am a passionate and driven third-year B.Tech IT student currently working on real-time collaborative projects like a live code editor and a task management arena. I enjoy building interactive, scalable web applications using React.js, Next.js, MongoDB, and Tailwind CSS. Alongside web development, I am actively strengthening my skills in Data Structures and Algorithms. I love collaborating on open-source projects, hackathons, and innovative tech ideas that challenge me to grow as a developer.
 
 
 ## 🌐 Socials:
