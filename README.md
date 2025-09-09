@@ -37,7 +37,6 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakshi5925&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sakshi5925&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi5925&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
@@ -48,11 +47,5 @@
 - 🧩 Love solving challenging coding problems  
 - 🎮 Enjoy participating in **hackathons & open-source events**  
 - ☕ Coffee keeps me alive during coding sprints  
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sakshi5925&icon=0&color=6" alt="Profile Views" />
-</p>
 
 ---
