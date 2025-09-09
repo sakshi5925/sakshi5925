@@ -1,6 +1,6 @@
 <!-- Animated Heading -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sakshi+Kumari;B.Tech+IT+Student+%7C+Web+Developer;Blockchain+%26+Web3+Learner;Open+Source+%26+Hackathon+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sakshi+Kumari;B.Tech+IT+Student+%7C+Web+Developer;Blockchain+%26+Web3+Learner;Hackathon+%26+Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
 ---
@@ -8,9 +8,9 @@
 ## 💫 About Me:
 - 🎓 **3rd-Year B.Tech IT Student** passionate about **web development** and **blockchain**  
 - 💻 Building **real-time collaborative projects** like a **Live Code Editor** and **Task Management Arena**  
-- 🚀 Skilled in **React.js, Next.js, MongoDB, Tailwind CSS** and learning **Blockchain & Solidity**  
-- 💡 Enthusiastic about **open-source contributions, hackathons, and innovative tech projects**  
-- 🧩 Always solving **Data Structures & Algorithms** problems to grow as a developer  
+- 🚀 Skilled in **React.js, Next.js, MongoDB, Tailwind CSS**, and learning **Blockchain & Solidity**  
+- 🧩 Sharpening **Data Structures & Algorithms** skills to improve problem-solving  
+- 🎮 Enthusiastic about **hackathons and tech competitions**  
 
 ---
 
@@ -45,10 +45,10 @@
 ---
 
 ## 🚀 Fun Facts About Me:
-- 🌱 Exploring **DevOps & Cloud** while diving deep into **Blockchain**  
-- 🔗 Excited about **Smart Contracts & Web3**  
-- 🎮 Love **hackathons, coding competitions, and teamwork**  
-- ☕ Coffee + Code = Perfect Combo  
+- 🌱 Exploring **Blockchain, Smart Contracts & Web3**  
+- 🧩 Constantly improving **DSA & problem-solving**  
+- 🎮 Love participating in **hackathons & coding challenges**  
+- ☕ Coffee + Code = My productivity fuel  
 
 ---
 
