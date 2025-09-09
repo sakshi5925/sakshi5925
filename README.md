@@ -1,19 +1,21 @@
-<!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Sakshi Kumari</h1>
-<h3 align="center">💻 Passionate B.Tech IT Student | Web Developer | DSA Enthusiast</h3>
+<!-- Animated Heading -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Sakshi+Kumari;B.Tech+IT+Student+%7C+Web+Developer;Blockchain+%26+Web3+Learner;Open+Source+%26+Hackathon+Enthusiast" alt="Typing SVG" />
+</h1>
 
 ---
 
 ## 💫 About Me:
-🎓 I’m a **3rd-year B.Tech IT student** with a passion for building real-time collaborative platforms like a **Live Code Editor** and **Task Management Arena**.  
-🚀 Skilled in **React.js, Next.js, MongoDB, Tailwind CSS**, and currently leveling up my **Data Structures & Algorithms** expertise.  
-💡 I love **open-source contributions**, **hackathons**, and working on **innovative tech projects**.  
-🎨 Passionate about crafting **interactive, scalable, and visually stunning web apps**.  
+- 🎓 **3rd-Year B.Tech IT Student** passionate about **web development** and **blockchain**  
+- 💻 Building **real-time collaborative projects** like a **Live Code Editor** and **Task Management Arena**  
+- 🚀 Skilled in **React.js, Next.js, MongoDB, Tailwind CSS** and learning **Blockchain & Solidity**  
+- 💡 Enthusiastic about **open-source contributions, hackathons, and innovative tech projects**  
+- 🧩 Always solving **Data Structures & Algorithms** problems to grow as a developer  
 
 ---
 
 ## 🌐 Connect with Me:
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/sak__s_hi_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -29,7 +31,7 @@
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,next,tailwind,redux,nodejs,express,mongodb,mysql,angular,git,github,vite,figma,canva,postman" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,react,next,tailwind,redux,nodejs,express,mongodb,mysql,angular,vite,git,github,figma,canva,postman,solidity,ethereum,web3" />
 </p>
 
 ---
@@ -43,9 +45,14 @@
 ---
 
 ## 🚀 Fun Facts About Me:
-- 🌱 Currently exploring **DevOps & Cloud**  
-- 🧩 Love solving challenging coding problems  
-- 🎮 Enjoy participating in **hackathons & open-source events**  
-- ☕ Coffee keeps me alive during coding sprints  
+- 🌱 Exploring **DevOps & Cloud** while diving deep into **Blockchain**  
+- 🔗 Excited about **Smart Contracts & Web3**  
+- 🎮 Love **hackathons, coding competitions, and teamwork**  
+- ☕ Coffee + Code = Perfect Combo  
 
 ---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20With%20❤️%20By-Sakshi%20Kumari-red" />
+</p>
