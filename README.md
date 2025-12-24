@@ -35,9 +35,11 @@
 </p>
 
 ---
-## 📊 GitHub Activity:
+## 📊 GitHub Activity & Streak:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshi5925&theme=tokyo-night&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=sakshi5925&theme=tokyonight&hide_border=true" />
 </p>
 
 
