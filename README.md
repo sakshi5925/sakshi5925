@@ -38,8 +38,8 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshi5925&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi5925&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshi5925&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi5925&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
